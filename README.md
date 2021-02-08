@@ -12,4 +12,4 @@ This repository contains an assortment of various custom emojis used on [Thiradu
 
 ## License
 
-This repository is licensed under the [MIT License](./LICENSE.md) © 2015-2020 [Thiradus](https://github.com/Thiradus/).
+This repository is licensed under the [MIT License](./LICENSE.md) © 2015-2021 [Thiradus](https://github.com/Thiradus/).
